@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/jfffrsn/webpack-react-basic/issues"
   },
-  "homepage": "https://github.com/jfffrsn/webpack-react-basic#readme"
+  "homepage": "https://github.com/jfffrsn/webpack-react-basic#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2"
+  }
 }
