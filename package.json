@@ -1,0 +1,26 @@
+{
+  "name": "webpack-react-basic",
+  "version": "1.0.0",
+  "description": "sample webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jfffrsn",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfffrsn/webpack-react-basic.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/jfffrsn/webpack-react-basic/issues"
+  },
+  "homepage": "https://github.com/jfffrsn/webpack-react-basic#readme"
+}
