@@ -4,12 +4,14 @@
   "description": "sample webpack project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
   },
   "author": "jfffrsn",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^3.12.0",
+    "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^2.11.5"
   },
   "repository": {
