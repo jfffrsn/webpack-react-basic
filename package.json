@@ -10,7 +10,7 @@
   "author": "jfffrsn",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^3.12.0",
+    "webpack": "^5.75.0",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^2.11.5"
   },
